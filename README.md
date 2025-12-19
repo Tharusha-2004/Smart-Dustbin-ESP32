@@ -27,7 +27,7 @@ An IoT-enabled Automatic Waste Segregation System** that classifies waste into M
 
 
 🧠 System Architecture
-[Block Diagram](docs/block_diagram.png)
+[Block Diagram](block_diagram.png)
 
 ## ⚙ Software & Technologies
 - Arduino (ESP32)
@@ -44,7 +44,7 @@ An IoT-enabled Automatic Waste Segregation System** that classifies waste into M
 - Overflow alerts
 - System uptime
 
-[Dashboard](web_ui/dashboard_preview.jpeg)
+[Dashboard](dashboard_preview.jpeg)
 
 📂 Project Structure
 
@@ -71,4 +71,5 @@ Research & Prototypes
 👨‍💻 Author
 
 Tharusha Nethmina
+
 Software Engineering Undergraduate
